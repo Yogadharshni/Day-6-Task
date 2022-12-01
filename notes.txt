@@ -1,0 +1,26 @@
+//1) Movie-->o/p 
+R
+PG13
+The title Casino Royale, the studio Eon Productions , and the rating PG13
+---------------------------------------------------
+//2) Circle-->o/p 
+1
+3
+red
+blue
+"Circle[radius=3, color=blue]"
+28.274333882308138
+18.84955592153876
+---------------------------------------------------
+//3) Person-->o/p 
+Yoga
+21
+Female
+MCA
+Tamilnadu
+---------------------------------------------------
+//4) Uber-->o/p 
+Number of Person : 2
+Distance in Kilometer : 3
+Total Price Rs.60
+---------------------------------------------------
